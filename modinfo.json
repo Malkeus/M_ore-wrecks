@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "m_cars_to_wrecks",
+    "name": "Fewer Cars to Wrecks",
+    "description": "Changes vehicle spawns to spawn about the same amount of wrecks as cars. WIP",
+    "category": "vehicles",
+    "author": "GiMoe",
+    "version": "1.0"
+  }
+]
