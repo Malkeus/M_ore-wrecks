@@ -10,13 +10,13 @@
             },        
             {
                 "description" : "Parked vehicles",
-                "weight" : 10,
+                "weight" : 5,
                 "vehicle_json" : {
-                    "vehicle": "city_vehicles", "placement" : "%t_parked", "number": 1, "fuel" : -1, "status" : -1
+                    "vehicle": "city_vehicles", "placement" : "%t_parked", "number": 1, "fuel" : -1, "status" : 1
                 }
             },            {
                 "description" : "Parked military vehicles",
-                "weight" : 10,
+                "weight" : 5,
                 "vehicle_json" : {
                     "vehicle": "military_vehicles", "placement" : "%t_parked", "number": 1, "fuel" : -1, "status" : -1
                 }
